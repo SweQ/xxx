@@ -12,6 +12,7 @@ namespace xxx
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("My name is Bob!");
+            Console.WriteLine("My name is Lol!");
             Console.ReadLine();
         }
     }
